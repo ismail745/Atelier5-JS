@@ -42,8 +42,8 @@ const userData = {
 
 ---
 
-## 📊 Exercice 4 : Suivi des stocks en temps réel (⚠️ Non implémenté)
-> **Remarque :** WebSockets n'a pas été implémenté en raison d'une incompatibilité avec PHP 8.
+## 📊 Exercice 4 : Suivi des stocks en temps réel
+> **Remarque ⚠️ :** WebSockets n'a pas été implémenté en raison d'une incompatibilité avec PHP 8.
 
 ### 🔗 Étapes prévues :
 1️⃣ Configuration de **Laravel WebSockets** et **Pusher**.
